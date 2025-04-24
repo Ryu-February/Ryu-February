@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="https://github.com/Ryu-February/Ryu-February/raw/main/banner.png" alt="Banner" width="800"/>
 </p>
