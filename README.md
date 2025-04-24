@@ -1,8 +1,7 @@
+# 안녕 👋, 류찬영이에요.
 <p align="center">
   <img src="https://github.com/Ryu-February/Ryu-February/raw/main/banner.png" alt="Banner" width="800"/>
 </p>
-
-# 안녕 👋, 류찬영이에요.
 
 - 🔭 현재 **STM32/라즈베리파이** 요리 중  
 - 🌱 임베디드·펌웨어·리눅스 커널 드라이버 공부 중  
