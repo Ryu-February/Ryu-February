@@ -22,10 +22,14 @@
 
 ## 🔗 Connect with me
 
+[![Naver Blog][naver-badge]][naver-link]
 [![Velog][velog-badge]][velog-link]  
 [![LinkedIn][linkedin-badge]][linkedin-link]  
 
+
 <!-- 뱃지 정의 -->
+[naver-badge]: https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=naver&logoColor=white  
+[naver-link]: https://blog.naver.com/ryu_february
 [velog-badge]: https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white  
 [velog-link]: https://velog.io/@your-velog-id  
 [linkedin-badge]: https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white  
